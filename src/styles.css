@@ -122,6 +122,10 @@ a:focus-visible {
   text-align: center;
 }
 
+.masthead-note span {
+  color: var(--warning);
+}
+
 .system-state {
   justify-self: end;
   min-height: 44px;

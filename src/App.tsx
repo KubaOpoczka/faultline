@@ -64,7 +64,9 @@ export function App() {
         <div className="wordmark" aria-label="Faultline">
           FAULT<span>/</span>LINE
         </div>
-        <p className="masthead-note">Distributed systems failure laboratory</p>
+        <p className="masthead-note">
+          Distributed systems failure laboratory <span>· KubaOpoczka</span>
+        </p>
         <div className={`system-state ${snapshot.quorum ? "healthy" : "critical"}`}>
           <i aria-hidden="true" />
           {snapshot.quorum ? "Quorum held" : "Quorum lost"}
