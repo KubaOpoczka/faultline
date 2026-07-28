@@ -12,8 +12,8 @@
   },
   "author": "Kuba Opoczka (KubaOpoczka)",
   "license": "MIT",
-  "repository": "https://github.com/SmellyBricc/faultline",
-  "homepage": "https://smellybricc.github.io/faultline/",
+  "repository": "https://github.com/KubaOpoczka/faultline",
+  "homepage": "https://kubaopoczka.github.io/faultline/",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
